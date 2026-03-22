@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Portfolio de Roukia</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #0f172a, #1e293b);
+            color: white;
+        }
+
+        header {
+            padding: 40px;
+            text-align: center;
+        }
+
+        h1 {
+            color: #38bdf8;
+            font-size: 40px;
+        }
+
+        section {
+            padding: 30px;
+            margin: 20px;
+            background: #1e293b;
+            border-radius: 15px;
+        }
+
+        h2 {
+            color: #38bdf8;
+        }
+
+        .btn {
+            display: inline-block;
+            margin-top: 10px;
+            padding: 10px 20px;
+            background: #38bdf8;
+            color: black;
+            border-radius: 10px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .btn:hover {
+            background: #0ea5e9;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>👋 Salut, moi c’est Roukia</h1>
+    <p>Étudiante en SVT 🧬 | Passionnée d'informatique 💻</p>
+    <a href="#" class="btn">Voir mon GitHub</a>
+</header>
+
+<section>
+    <h2>💡 À propos</h2>
+    <p>Je suis étudiante en sciences de la vie et de la terre, passionnée par la technologie et la programmation.</p>
+</section>
+
+<section>
+    <h2>💻 Mes projets</h2>
+    <p>🎮 Jeu Python : devine le nombre</p>
+</section>
+
+<section>
+    <h2>🛠️ Compétences</h2>
+    <p>Python 🐍 | HTML 🌐 | Linux 💻</p>
+</section>
+
+<section>
+    <h2>📞 Contact</h2>
+    <p>Email : tonemail@gmail.com</p>
+</section>
+
+</body>
+</html>
